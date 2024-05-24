@@ -13,7 +13,7 @@ from pynput.keyboard import Controller
 import pyautogui
 
 # Constants
-PROGRAM_VERSION: str = "1.0.0 r"
+PROGRAM_VERSION: str = "v1.0.0-release"
 
 # Main variables
 settings: dict = {} 
