@@ -1,0 +1,36 @@
+{
+    // 0 - Almost nothing; 1 - Default level; 2 - You will know everything; 3 - The less you know, the better you sleep; and so on.
+    "loggingLevel": 1,
+    "showTimeWhenLogging": true,
+
+    "spamMessageSettings": {
+        // Upon overflow, the oldest spam message is removed. If a message is in the history, a new one is selected and added.
+        "spamMessagesHistorySize": "auto", // Set the value to "auto" for automatic selection.
+        "spamMessages": [
+            "Don't forget to put a star ---> https://github.com/l2G7-27G/Simple-Minecraft-Spam-Bot/",
+            "Author ---> https://github.com/l2G7-27G",
+            "I'AM SPAM BOT",
+            "This is a message from robots. BEEP BEEP",
+            "This program was tested by pudge_eshkere"
+        ],
+        "enableSpamMessageSound": true,
+
+        // Typically on Minecraft servers with plugins, in order for your message to be visible in global chat,
+        // you must placed at the beginning of the message "!"
+        "spamMessagePrefix": "",
+        "spamMessageSuffix": ""
+    },
+
+    // The bot uses the Minecraft interface (not the API), so it needs to know your game client settings.
+    "minecraftClientSettings": {
+        "openChatKey": "t" // Only the keys on the keyboard!
+    },
+
+    "botSettings": { 
+        "botToggleKey": "=", // Only the keys on the keyboard! You should hear a sound when the bot toggle.
+
+        // Delay after sending a spam message (floating point number) is randomly selected between these settings.
+        "minSpamMessageDelay": 0,
+        "maxSpamMessageDelay": 1
+    }
+}
