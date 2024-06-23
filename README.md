@@ -4,6 +4,11 @@
 
 > [!IMPORTANT]
 > <b>I beg you not to use this program for malicious purposes</b>. It was <ins>created to have a laugh</ins> at the expense of foolish spammers on Minecraft’s donation servers, who, upon being added to your Discord friends list, start sending links to Discord servers that actually pay these spammers.<br>This program is designed for spamming in the style of: <i>“Femboy desires passionate love —> _[Spammer’s Nickname]_”</i>
+
+> <i>«Ah! He has a sword in his hand! — Idiots!
+> We all have swords!»</i>
+> — Aladdin
+
 ## Futures
 - [ ] Graphical interface
 - [ ] GUI overlay
