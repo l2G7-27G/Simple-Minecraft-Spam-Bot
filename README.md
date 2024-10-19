@@ -9,12 +9,12 @@
 > We all have swords!»</i>
 > — Aladdin
 
-## Futures
-- [ ] Graphical interface
-- [ ] GUI overlay
-- [ ] Using the Minecraft API instead of just pasting text into the chat.
-- [ ] Make an icon
-> While nothing from this list has been done yet, I will definitely improve and make progress.
+[//]: / (## Futures)
+[//]: / (- [ ] Graphical interface)
+[//]: / (- [ ] GUI overlay)
+[//]: / (- [ ] Using the Minecraft API instead of just pasting text into the chat.)
+[//]: / (- [ ] Make an icon)
+[//]: / (> While nothing from this list has been done yet, I will definitely improve and make progress.)
 
 ## How to use
 To use this bot, you first need to launch it. Let me explain how to do it! Okay, I'm just kidding. When you press a button <i>(by default, it's the `=` key)</i> to toggle the bot, the bot turns on/off and a note block sound is emitted depending on whether it has been turned on or off. You can also enable a setting so that a note block sound is played when a message is sent. This is enabled by default and can be turned off in the settings. The delay before the next message is randomly within a certain range, which can be adjusted in the settings.
